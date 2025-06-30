@@ -80,6 +80,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "huangcang": {
+      "api": "https://hsckzy.vip",
+      "name": "黄色仓库"
     }
   }
 }
